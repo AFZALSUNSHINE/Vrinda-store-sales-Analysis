@@ -21,5 +21,6 @@ Amazon,Flipkart and Myntra channels are max contributing (~80%) Conclusion: Targ
 ![Alt Text](https://github.com/AFZALSUNSHINE/Vrinda-store-sales-Analysis/blob/main/excel%20-Screenshot%202024-11-29%20224251.png  "Optional Title") 
 
 summery
- Store Data Analytics Project
+
+Store Data Analytics Project
 Analyzed 2022 sales data to create an Annual Sales Report, identifying key trends and customer insights. Cleaned data for accuracy, generated age brackets and monthly trends, and designed an interactive dashboard with slicers. Key findings included women (65%) as primary buyers, top states (Maharashtra, Karnataka, Uttar Pradesh), and adult age group (30-49 years) driving ~50% of sales. Recommended targeted strategies to boost sales via Amazon, Flipkart, and Myntra.
